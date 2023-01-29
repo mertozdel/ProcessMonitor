@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qbxG3ZDcJoS0gKSlF17owjlsrrnm3Zl4FyeznV9uE4yFfJH6H9v0Bs7UwmFhH4foJ5TfwjsYgJG16L6Txh6FUA==",
+  "success": true,
+  "projectFilePath": "D:\\c#codes\\processmonitor\\processmonitor\\processmonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert\\.nuget\\packages\\nunit3testadapter\\4.3.1\\nunit3testadapter.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "processmonitor": {
+      "commandName": "Project",
+      "commandLineArgs": "chrome 10 2"
+    }
+  }
+}
